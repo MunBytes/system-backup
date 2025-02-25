@@ -25,7 +25,7 @@ This repository contains two shell scripts, `backup.sh` and `restore.sh`, design
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/RecursiveCipher/system-backup.git
+git clone https://github.com/MunBytes/system-backup.git
 cd system-backup
 ```
 
